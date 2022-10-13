@@ -1,0 +1,5 @@
+dia=input("Informe o Dia em que nasceu:")
+mes=input("Informe o Mês em que nasceu:")
+ano=input("Informe o Ano em que nasceu:")
+print("Exemplo 1:", dia + "/" + mes + "/" + ano)
+print("Exemplo 2: Você Nasceu no dia ", dia, "de", mes, "de", ano, ", Correto?")
