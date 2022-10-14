@@ -9,6 +9,13 @@ package fundamentos.classesEMetodos;
 	 * Toda classe envolve um bloco {} de código, possuindo ou não o metódo main
 	 */
 public class Classe {
+	
+	/* Dentro da classe, possuimos um corpo/membros da classe
+	 * em que cada membro possui atributos e comportamentos
+	 * Atributos: Dados(int, boolean, String, etc)
+	 * Comportamentos: Métodos (Funcionamento, como o método main que executa
+	 * uma sequencia de passos, podendo ter outros métodos com seus próprios funcionamentos)
+	 */
 
 	public static void main(String[] args) {
 		
