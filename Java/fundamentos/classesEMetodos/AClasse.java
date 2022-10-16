@@ -8,7 +8,7 @@ package fundamentos.classesEMetodos;
 	 * 
 	 * Toda classe envolve um bloco {} de código, possuindo ou não o metódo main
 	 */
-public class Classe {
+public class AClasse {
 	
 	/* Dentro da classe, possuimos um corpo/membros da classe
 	 * em que cada membro possui atributos e comportamentos
