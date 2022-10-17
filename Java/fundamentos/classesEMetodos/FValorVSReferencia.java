@@ -31,11 +31,8 @@ public class FValorVSReferencia {
 	System.out.println(p2.nome+"\n");
 	
 	System.out.println(p1.preco );
-	System.out.println(p2.desconto+"\n");
-	
 	p2.preco = 100;
-	p1.desconto = 30;
 	System.out.println(p1.preco);
-	System.out.println(p2.desconto);
+
 	}
 }
