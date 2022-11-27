@@ -1,4 +1,4 @@
-package fundamentos.oo.relacionamentoNParaN;
+package oo.relacionamentoNParaN;
 
 import java.util.ArrayList;
 import java.util.List;

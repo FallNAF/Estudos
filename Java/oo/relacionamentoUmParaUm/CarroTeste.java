@@ -1,4 +1,4 @@
-package fundamentos.oo.relacionamentoUmParaUm;
+package oo.relacionamentoUmParaUm;
 
 public class CarroTeste {
 

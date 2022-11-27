@@ -1,4 +1,4 @@
-package fundamentos.oo.relacionamentoUmParaN;
+package oo.relacionamentoUmParaN;
 
 public class Item {
 

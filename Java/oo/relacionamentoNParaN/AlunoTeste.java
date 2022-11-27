@@ -1,4 +1,4 @@
-package fundamentos.oo.relacionamentoNParaN;
+package oo.relacionamentoNParaN;
 
 public class AlunoTeste {
 
